@@ -19,9 +19,5 @@ Scala is a powerful, high-level programming language that seamlessly blends obje
 - [x] Functional Programming Concepts
 
 ## 🛠️ Projects & Exercises
-As I progress, I will be working on the following:
 - ✅ Simple File Handling System
 - ✅ Data Structures and Algorithms
-
-Happy coding! 😊
-
